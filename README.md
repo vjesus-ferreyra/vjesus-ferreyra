@@ -1,4 +1,5 @@
 <div align="center">
+   <img src="./PROFILE_IMAGE.jpg" width="300" height="300" alt="image_profile" />
    <h1>Hello World! 😎✌️</h1>
 </div>
 
