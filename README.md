@@ -4,20 +4,19 @@
 </div>
 
 ## About me 👨‍💻
-I'm Victor J. Torres Ferreyra, but you call me Quetzal Nocturno. I´m student of the last year of Computer Sysmtems Engineering , I'm learning a backend frameworks, networking and cloud service, like <a href="https://aws.amazon.com/es/">AWS</a>, <a href="https://azure.microsoft.com/">Azure</a> and my own solutions for cloud service and storage.
+I'm Victor J. Torres Ferreyra, but you call me Quetzal Nocturno. I´m student of the last year of Computer Sysmtems Engineering , actually I'm learning about a backend frameworks, networking and cloud service, like <a href="https://aws.amazon.com/es/">AWS</a>, <a href="https://azure.microsoft.com/">Azure</a> and how build and deploy my own solutions for cloud service and storage.
 
-In My free time I listen music, read sci-fi novels and i update my knownledge about the frameworks that i used. I'm fan for Star Wars, Warhammer 40k and Warhammer Age of Sigmar.
-
-## Languages and tools that i know
+## My Developer ToolBox Kit
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="50" /> Java <br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="50" /> HTML <br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="50" /> CSS <br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" /> Javascript <br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" /> PHP <br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" /> Laravel Framework <br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-plain.svg" width="50" /> Laravel Livewire <br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" width="50" /> Kotlin <br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="50" /> Android Ecosystem <br />
 </div>
 
 <!---
